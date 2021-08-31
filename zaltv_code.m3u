@@ -41,7 +41,6 @@ https://livecdn.fptplay.net/hda3/cartoonnetworkhd_vhls.smil/chunklist_b5000000.m
 https://livecdn.fptplay.net/hda3/boomerang_vhls.smil/chunklist_b5000000.m3u8 
 #EXTINF:0 tvg-country="VN" tvg-logo="https://i.postimg.cc/J4jvn20z/CBEEBIES.png" group-title="THIEU NHI", CBEEBIES 
 https://livecdn.fptplay.net/hda3/cbeebies_vhls.smil/chunklist_b5000000.m3u8
-#EXTM3U
 #EXTINF:0 tvg-country="VN" tvg-logo="https://i.postimg.cc/Yq7RYmNn/VTC1.png" group-title="VTC", VTC1
 https://vtc130121.cdn.vnns.io/VTC1/chunks.m3u8
 #EXTINF:0 tvg-country="VN" tvg-logo="https://i.postimg.cc/m2Sw-w28b/768px-VTC2-logo-2018-svg.png" group-title="VTC", VTC2
@@ -120,7 +119,6 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-GIADINH-HD-1080p/playlist.m3u
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-DULICH-HD-1080p/playlist.m3u8
 #EXTINF:0 tvg-country="VN" tvg-logo="https://i.postimg.cc/7LmcNY6h/HTVCCANHAC.png" group-title="HTVC", CA NHẠC
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-CANHAC-HD-1080p/playlist.m3u8
-
 #EXTINF:0 tvg-country="VN" tvg-logo="https://i.postimg.cc/hv99vL0z/cab1.png" group-title="VTVCab", VTVCab1-VIE GIẢI TRÍ
 http://thanh.ddns.net:4026/rtp/232.84.1.143:8832
 #EXTINF:0 tvg-country="VN" tvg-logo="https://i.postimg.cc/G3YPXR1L/cab2.png" group-title="VTVCab", VTVCab2-PHIM VIỆT
