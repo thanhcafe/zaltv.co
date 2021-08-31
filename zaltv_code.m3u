@@ -1,5 +1,4 @@
 #EXTM3U
-#EXTM3U
 #EXTINF:0 tvg-country="VN" tvg-logo="https://i.postimg.cc/hvSTKgrd/qr.png" group-title="Zalo QR",OneHub TV-Quét mã QR zalo Để Được Hỗ Trợ 
 http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r2/virtuallive/5102010211/150/01.m3u8?&mtv_session=&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=34118fd72bb9dd3695e667df26df015c
 #EXTINF:0 tvg-country="VN" tvg-logo="https://github.com/thanhcafe/logo/blob/main/vtv1.png?raw=true" group-title="VTV", VTV1
