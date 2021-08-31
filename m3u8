@@ -1,3 +1,43 @@
 #EXTM3U
-#EXTINF:0 tvg-country="VN" tvg-logo="https://i.postimg.cc/hvSTKgrd/qr.png" group-title="Zalo QR", ZALTV
+#EXTINF:0 tvg-country="VN" tvg-logo="https://i.postimg.cc/hvSTKgrd/qr.png" group-title="Zalo QR",Quét mã QR zalo Để Được Hỗ Trợ 
 http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r2/virtuallive/5102010211/150/01.m3u8?&mtv_session=&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=34118fd72bb9dd3695e667df26df015c
+#EXTINF:0 tvg-country="VN" tvg-logo="https://i.postimg.cc/HxPmggmf/One-Hub-TV-Logo-VTV1.png" group-title="VTV", VTV1
+https://livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/chunklist_b2500000.m3u8?token=?onehub
+#EXTINF:0 tvg-country="VN" tvg-logo="https://i.postimg.cc/zf75xhcD/One-Hub-TV-Logo-VTV2.png" group-title="VTV", VTV2
+https://livecdn.fptplay.net/hda1/vtv2_vhls.smil/chunklist_b2500000.m3u8?token=onehub
+#EXTINF:0 tvg-country="VN" tvg-logo="https://i.postimg.cc/Xv44KLxD/One-Hub-TV-Logo-VTV3.png" group-title="VTV", VTV3
+https://livecdn.fptplay.net/hda1/vtv3hd_vhls.smil/chunklist_b2500000.m3u8?token=onehub
+#EXTINF:0 tvg-country="VN" tvg-logo="https://i.postimg.cc/9Fsf9yvv/One-Hub-TV-Logo-VTV4.png" group-title="VTV", VTV4
+https://livecdn.fptplay.net/hda1/vtv4_vhls.smil/chunklist_b2500000.m3u8?token=onehub
+#EXTINF:0 tvg-country="VN" tvg-logo="https://i.postimg.cc/k5vMLzBm/One-Hub-TV-Logo-VTV5.png" group-title="VTV", VTV5
+https://livecdn.fptplay.net/hda2/vtv5hd_vhls.smil/chunklist_b2500000.m3u8?token=onehub
+#EXTINF:0 tvg-country="VN"  tvg-logo="https://i.postimg.cc/rsK80pgV/One-Hub-TV-Logo-VTV6.png" group-title="VTV", VTV6
+https://livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b2500000.m3u8?token=onehub0
+#EXTINF:0 tvg-country="VN"  tvg-logo="https://i.postimg.cc/Bv0QY4Zp/One-Hub-TV-Logo-VTV7.png" group-title="VTV", VTV7
+https://livecdn.fptplay.net/hda3/vtv7hd_vhls.smil/chunklist_b2500000.m3u8?token=onehub
+#EXTINF:0 tvg-country="VN"  tvg-logo="https://i.postimg.cc/4d44GP9h/One-Hub-TV-Logo-VTV8.png" group-title="VTV", VTV8
+https://livecdn.fptplay.net/hda2/vtv8hd_vhls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 tvg-country="VN"  tvg-logo="https://i.postimg.cc/JnTrzXNY/One-Hub-TV-Logo-VTV9.png" group-title="VTV", VTV9
+https://livecdn.fptplay.net/hda2/vtv9_vhls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 tvg-country="VN"  tvg-logo="https://i.postimg.cc/VvpzjcHj/One-Hub-TV-Logo-VTV5-Tay-Nguyen.png" group-title="VTV", VTV5-TÂY NGUYÊN 
+https://mutixx5hq1liv.akamaized.net/vtv5tn/vtv5tn@720p.m3u8
+#EXTINF:0 tvg-country="VN"  tvg-logo="https://i.postimg.cc/sfNfFpDv/One-Hub-TV-Logo-VTV5-Tay-Nam-Bo.png" group-title="VTV", VTV5-TÂY NAM BỘ
+https://mutixx5hq1liv.akamaized.net/vtv5tnb/vtv5tnb@720p.m3u8
+#EXTINF:0 tvg-country="VN"  tvg-logo="https://i.postimg.cc/pTj22PRM/HBO.png" group-title="HBO_GO",HBO
+https://livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 tvg-country="VN"  tvg-logo="https://i.postimg.cc/N0SsqKhx/CINEMAX.png" group-title="HBO_GO",CINEMAX
+https://livecdn.fptplay.net/hda1/cinemax_vhls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 tvg-country="VN"  tvg-logo="https://i.postimg.cc/59GHdzYd/DISNEY.png" group-title="THIEU NHI", DISNEY
+http://vnptmanhha.duckdns.org:4030/rtp/232.84.2.143:10678
+#EXTINF:0 tvg-country="VN" tvg-logo="https://i.postimg.cc/mDpPrzm9/DISNEYJUNIOR.png" group-title="THIEU NHI", DISNEY JUIOR
+http://vnptmanhha.duckdns.org:4030/rtp/232.84.3.200:11122
+#EXTINF:0 tvg-country="VN" tvg-logo="https://i.postimg.cc/W4nDQfrX/ANIMAX.png" group-title="THIEU NHI", ANIMAX
+https://livecdn.fptplay.net/hda3/animaxport_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0 tvg-country="VN" tvg-logo="https://i.postimg.cc/xC1kYy3Y/CN.png" group-title="THIEU NHI", CARTOON NETWORK
+https://livecdn.fptplay.net/hda3/cartoonnetworkhd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0 tvg-country="VN" tvg-logo="https://i.postimg.cc/x8WqvrDT/BOOMERANG.png" group-title="THIEU NHI", BOOMERANG 
+https://livecdn.fptplay.net/hda3/boomerang_vhls.smil/chunklist_b5000000.m3u8 
+#EXTINF:0 tvg-country="VN" tvg-logo="https://i.postimg.cc/J4jvn20z/CBEEBIES.png" group-title="THIEU NHI", CBEEBIES 
+https://livecdn.fptplay.net/hda3/cbeebies_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0 tvg-country="VN" tvg-logo="https://i.postimg.cc/BbyPmLD3/BABYFIS.png" group-title="THIEU NHI", BABY FIRST 
+https://livecdn.fptplay.net/hda1/babyfirst_vhls.smil/chunklist_b5000000.m3u8
